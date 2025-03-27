@@ -8,91 +8,235 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38b0c53ec4e05464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reverse/Reverse + malware analyse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reverse + malware analyse"
-            }
-          },
-          {
-            "id": "5305b72b1722369c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reverse/Analyse fichiers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Analyse fichiers"
-            }
-          },
-          {
             "id": "2bc13bb49708c736",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reverse/Buffer overflow.md",
+                "file": "Write up/Write up.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Buffer overflow"
+              "title": "Write up"
             }
           },
           {
-            "id": "53c17089ff817c09",
+            "id": "c557cedafbe7327c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sans titre.md",
+                "file": "Write up/Write up.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "Write up"
             }
           },
           {
-            "id": "ab57d0bab1a917b1",
+            "id": "8bc6d674a17a00ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/outills/OSINT.md",
+                "file": "Cours/Cyber/Reconnaissance/Active/Active.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "OSINT"
+              "title": "Active"
             }
           },
           {
-            "id": "abb5e43078ecc00c",
+            "id": "cd5b38e3f9ca795a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reverse/Reverse root me soluce.md",
+                "file": "Cours/Cyber/Exploitation/Exploitation.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Reverse root me soluce"
+              "title": "Exploitation"
+            }
+          },
+          {
+            "id": "ab29e766492ad001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Cyber/Exploitation/Exploitation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exploitation"
+            }
+          },
+          {
+            "id": "e3aebdaae765c016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Cyber/Reconnaissance/Active/Active.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Active"
+            }
+          },
+          {
+            "id": "1d7bef2dbe881e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Cyber/Services/Services.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Services"
+            }
+          },
+          {
+            "id": "698fa07369939a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Cyber/Services/Concept AD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concept AD"
+            }
+          },
+          {
+            "id": "31b95445be4634d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Cyber/Services/Concept AD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concept AD"
+            }
+          },
+          {
+            "id": "0e0a7722cd3a7729",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Autres/Files/Cheat-sheet/GoogleCheatSheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GoogleCheatSheet"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -124,8 +268,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -160,25 +304,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3077806dccae2938",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "EScalation priv/installer un terminal.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for installer un terminal"
-            }
-          },
-          {
             "id": "48146d6eb9ca1393",
             "type": "leaf",
             "state": {
@@ -199,10 +324,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
@@ -211,76 +338,112 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EScalation priv/installer un terminal.md"
+                "file": "Cours/Cyber/Services/Concept AD.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of installer un terminal"
+              "title": "Plan de Concept AD"
+            }
+          },
+          {
+            "id": "6e5496107125921b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Autres/Files/Cheat-sheet/GoogleCheatSheet.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour GoogleCheatSheet"
+            }
+          },
+          {
+            "id": "2a9f4787039bcfc3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false,
+      "publish:Publier les modifications": false
     }
   },
   "active": "9cee118a1a349575",
   "lastOpenFiles": [
-    "git",
-    "git/outills/OSINT.md",
-    "git/reverse/Reverse root me soluce.md",
-    "git/reverse/assembly.md",
-    "git/reverse/Reverse + malware analyse.md",
-    "git/reverse/Analyse fichiers.md",
-    "git/reverse/Buffer overflow.md",
-    "git/outills/Gobuster.md",
-    "git/outills/Nmap.md",
-    "git/Outils.md",
-    "git/dd.md",
-    "git/ressource.md",
-    "git/img/Pasted image 20250309113059.png",
-    "git/EScalation priv/installer un terminal.md",
-    "git/reverse/assemlby références/Guide Complet Assembly x86 x64.md",
-    "git/reverse/gdb.md",
-    "git/SQL injections/aa.md",
-    "reverse/assemlby références/STRUCTURE.md",
-    "reverse/assemlby références/Sans titre",
-    "git/reverse/asm programmes/Hello world asm x64 l.md",
-    "git/reverse/asm programmes/Hello World asm x32 l.md",
-    "git/reverse/asm programmes/Hello world asm 64 W.md",
-    "git/Untitled.canvas",
-    "git/EScalation priv/windows priv esc.md",
-    "git/img/Pasted image 20250211152458.png",
-    "git/reverse/assemlby références",
-    "git/img/Pasted image 20250211125044.png",
-    "git/img/Pasted image 20250211122705.png",
-    "git/img/Pasted image 20250211121011.png",
-    "git/reverse/asm programmes",
-    "git/EScalation priv/path script esc.md",
-    "git/EScalation priv/esc priv linux.md",
-    "git/Crack /etc/Crack  etc shadow.md",
-    "git/img/Pasted image 20250131131751.png",
-    "git/img/Pasted image 20250131131751 1.png",
-    "git/img/Pasted image 20250122094109.png",
-    "git/img/Pasted image 20250131133431.png",
-    "git/SQL injections",
-    "git/img/Pasted image 20250122093433.png",
-    "git/outills",
-    "git/img",
-    "git/reverse",
-    "git/Crack /etc",
-    "git/Crack ",
-    "git/EScalation priv"
+    "Obsidian",
+    "Cours/Cyber/Services/Services.md",
+    "Cours/Cyber/Services/Concept AD.md",
+    "Cours/Cyber/Exploitation/AD Exploit.md",
+    "Cours/Cyber/Reconnaissance/Active/dns Recon.md",
+    "Cours/Cyber/Reconnaissance/Active/Active.md",
+    "Cours/Cyber/Exploitation/Les Johns.md",
+    "Cours/Cyber/Exploitation/Exploitation.md",
+    "Cours/Cyber/Post-Exploitation/Linux/esc priv linux.md",
+    "Cours/Cyber/Méthodes/Rapports/Outils rapports.md",
+    "Cours/Cyber/Concepts/Payload.md",
+    "Cours/Cyber/Méthodes/Les 5 étapes d'hacker Ethique.md",
+    "Cours/Cyber/Reconnaissance/Active/arp-scan.md",
+    "Cours/Cyber/Cyber.md",
+    "Cours/Cyber/Exploitation/Metasploit.md",
+    "Cours/Cyber/Concepts",
+    "Cours/Cyber/Reconnaissance/Active/Nessus.md",
+    "Cours/Cyber/Exploitation/Searchsploit.md",
+    "Cours/Cyber/Services/ssh.md",
+    "Autres/Files/Cheat-sheet/ssh-cheat-sheet-common-commands-and-secure-config.pdf",
+    "Autres/Files/Cheat-sheet/ssh-cheat-sheet-common-commands-and-secure-config.pdf.crdownload",
+    "Cours/Cyber/Services/smbclient.md",
+    "Cours/Cyber/Services",
+    "Cours/Cyber/Machines services",
+    "Cours/Réseau/Adresses IP et MAC.md",
+    "Cours/Cyber/Reconnaissance/Active/nikto.md",
+    "Cours/Cyber/Métasploit/Métasploit.md",
+    "Cours/Cyber/Métasploit",
+    "Cours/Cyber/Reconnaissance/Active/Nmap.md",
+    "Cours/Cyber/Reconnaissance/Active/netdiscover.md",
+    "Cours/Cyber/Reconnaissance/Active/Gobuster.md",
+    "Cours/Cyber/Reconnaissance/Passive/OSINT/OSINT.md",
+    "Autres/Files/Cheat-sheet/GoogleCheatSheet.pdf",
+    "Autres/Files/img/Pasted image 20250323141145.png",
+    "Autres/Files/img/Pasted image 20250323140956.png",
+    "Autres/Files/img/Pasted image 20250323140933.png",
+    "Autres/Files/img/Pasted image 20250323140856.png",
+    "Autres/Files/img/Pasted image 20250323140825.png",
+    "Autres/Files/img/Pasted image 20250323140736.png",
+    "Autres/Files/img/Pasted image 20250323140721.png",
+    "Autres/Files/img/Pasted image 20250323140613.png",
+    "Autres/Files/img/Pasted image 20250323140552.png",
+    "Autres/Files/img/Pasted image 20250323140438.png",
+    "img",
+    "Game Hacking 1",
+    "Write up/Hackfinity",
+    "git/Sans titre.canvas",
+    "git/Untitled.canvas"
   ]
 }

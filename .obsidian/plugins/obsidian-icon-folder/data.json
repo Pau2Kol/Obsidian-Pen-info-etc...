@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🖥",
+      "LiNewspaper",
+      "❓",
+      "📚",
+      "LiCat"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Autres": "❓",
+  "Autres/Modèles": "LiLayoutTemplate",
+  "Autres/Files/img": "LiImages",
+  "Bot discord": {
+    "iconName": "LiCodeSquare",
+    "iconColor": "#1d0ba8"
+  },
+  "Cours": "📚",
+  "Cours/Cyber": "🥷",
+  "Cours/Réseau": "LiWifi",
+  "Cours/Cyber/Exploitation": {
+    "iconName": "LiComputer",
+    "iconColor": "#d01b1b"
+  },
+  "Cours/Cyber/Méthodes": "LiArchive",
+  "Cours/Cyber/Post-Exploitation": {
+    "iconName": "LiArrowUp",
+    "iconColor": "#d40c0c"
+  },
+  "Cours/Cyber/Reconnaissance": {
+    "iconName": "LiEarth",
+    "iconColor": "#1bb9ee"
+  },
+  "Cours/Cyber/Services": "🖥",
+  "Cours/Cyber/etc": "LiInfo",
+  "Cours/Cyber/reverse": {
+    "iconName": "LiSearchCode",
+    "iconColor": "#27b459"
+  },
+  "Cours/Cyber/Post-Exploitation/Linux": "🐧",
+  "Cours/Cyber/Post-Exploitation/Windows": "🪟",
+  "Write up": "LiNewspaper"
+}
